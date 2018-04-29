@@ -1,3 +1,2 @@
 # CachingAlgorithm
-缓存算法
-Java8新特性
+缓存算法以及Java8新特性
